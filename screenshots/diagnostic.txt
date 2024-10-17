@@ -1,0 +1,228 @@
+---------------------------- PROCESS STARTED (9992) for package edu.uw.ischool.kmuret.activityspy ----------------------------
+2024-10-16 19:59:24.871  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@61cfec6)
+2024-10-16 19:59:24.872  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@61cfec6)
+2024-10-16 19:59:25.258  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:25.269  3125-3243  EGL_emulation           com.android.launcher3                D  eglMakeCurrent: 0x776c840860: ver 3 0 (tinfo 0x776c80df00)
+2024-10-16 19:59:25.775  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/os/Trace;->TRACE_TAG_APP:J (light greylist, reflection)
+2024-10-16 19:59:25.776  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/os/Trace;->isTagEnabled(J)Z (light greylist, reflection)
+2024-10-16 19:59:25.864  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6c0fc23)
+2024-10-16 19:59:25.867  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6c0fc23)
+2024-10-16 19:59:25.895  9992-9992  AppCompatDelegate       edu.uw.ischool.kmuret.activityspy    D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2024-10-16 19:59:25.933  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/graphics/Insets;->left:I (light greylist, linking)
+2024-10-16 19:59:25.933  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/graphics/Insets;->top:I (light greylist, linking)
+2024-10-16 19:59:25.933  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/graphics/Insets;->right:I (light greylist, linking)
+2024-10-16 19:59:25.933  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/graphics/Insets;->bottom:I (light greylist, linking)
+2024-10-16 19:59:25.980  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2024-10-16 19:59:26.022  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    I  onCreate event fired with Bundle: null
+2024-10-16 19:59:26.052  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    I  onStart event fired
+2024-10-16 19:59:26.054  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    I  onResume event fired
+2024-10-16 19:59:26.056  9992-9992  OpenGLRenderer          edu.uw.ischool.kmuret.activityspy    D  Skia GL Pipeline
+2024-10-16 19:59:26.061  1723-1851  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2024-10-16 19:59:26.082  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/view/WindowInsets;->CONSUMED:Landroid/view/WindowInsets; (light greylist, reflection)
+2024-10-16 19:59:26.083  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/view/View;->getViewRootImpl()Landroid/view/ViewRootImpl; (light greylist, reflection)
+2024-10-16 19:59:26.084  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/view/View$AttachInfo;->mVisibleInsets:Landroid/graphics/Rect; (light greylist, reflection)
+2024-10-16 19:59:26.084  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden field Landroid/view/ViewRootImpl;->mAttachInfo:Landroid/view/View$AttachInfo; (light greylist, reflection)
+2024-10-16 19:59:26.123  1384-1455  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:26.126  9992-10017 HostConnection          edu.uw.ischool.kmuret.activityspy    D  HostConnection::get() New Host Connection established 0x776aad7e40, tid 10017
+2024-10-16 19:59:26.127  9992-10017 HostConnection          edu.uw.ischool.kmuret.activityspy    D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_sync_buffer_data GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+2024-10-16 19:59:26.128  1384-1783  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:26.129  1384-1384  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:26.137  9992-10017 ConfigStore             edu.uw.ischool.kmuret.activityspy    I  android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2024-10-16 19:59:26.139  9992-10017 ConfigStore             edu.uw.ischool.kmuret.activityspy    I  android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2024-10-16 19:59:26.139  9992-10017 OpenGLRenderer          edu.uw.ischool.kmuret.activityspy    I  Initialized EGL, version 1.4
+2024-10-16 19:59:26.139  9992-10017 OpenGLRenderer          edu.uw.ischool.kmuret.activityspy    D  Swap behavior 1
+2024-10-16 19:59:26.140  9992-10017 OpenGLRenderer          edu.uw.ischool.kmuret.activityspy    W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2024-10-16 19:59:26.140  9992-10017 OpenGLRenderer          edu.uw.ischool.kmuret.activityspy    D  Swap behavior 0
+2024-10-16 19:59:26.143  9992-10017 eglCodecCommon          edu.uw.ischool.kmuret.activityspy    D  setVertexArrayObject: set vao to 0 (0) 0 0
+2024-10-16 19:59:26.143  9992-10017 EGL_emulation           edu.uw.ischool.kmuret.activityspy    D  eglCreateContext: 0x776aad85c0: maj 3 min 0 rcv 3
+2024-10-16 19:59:26.147  9992-10017 EGL_emulation           edu.uw.ischool.kmuret.activityspy    D  eglMakeCurrent: 0x776aad85c0: ver 3 0 (tinfo 0x7772e7bfc0)
+2024-10-16 19:59:26.155  1723-1851  SurfaceFlinger          surfaceflinger                       E  ro.sf.lcd_density must be defined as a build property
+2024-10-16 19:59:26.182  9992-10017 HostConnection          edu.uw.ischool.kmuret.activityspy    D  createUnique: call
+2024-10-16 19:59:26.182  9992-10017 HostConnection          edu.uw.ischool.kmuret.activityspy    D  HostConnection::get() New Host Connection established 0x776aad8840, tid 10017
+2024-10-16 19:59:26.189  9992-10017 HostConnection          edu.uw.ischool.kmuret.activityspy    D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_sync_buffer_data GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+2024-10-16 19:59:26.202  9992-10017 EGL_emulation           edu.uw.ischool.kmuret.activityspy    D  eglMakeCurrent: 0x776aad85c0: ver 3 0 (tinfo 0x7772e7bfc0)
+2024-10-16 19:59:26.205  9992-10017 eglCodecCommon          edu.uw.ischool.kmuret.activityspy    D  setVertexArrayObject: set vao to 0 (0) 3 2
+2024-10-16 19:59:26.355  1904-1941  ActivityManager         system_server                        I  Displayed edu.uw.ischool.kmuret.activityspy/.MainActivity: +1s724ms
+2024-10-16 19:59:26.365  3046-3046  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2024-10-16 19:59:26.386  3046-3046  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2024-10-16 19:59:26.536  1723-1750  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: Splash Screen edu.uw.ischool.kmuret.activityspy#0
+2024-10-16 19:59:26.536  1723-1750  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: Splash Screen edu.uw.ischool.kmuret.activityspy#0
+2024-10-16 19:59:26.550  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.556  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/os/Trace;->asyncTraceBegin(JLjava/lang/String;I)V (light greylist, reflection)
+2024-10-16 19:59:26.556  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/os/Trace;->asyncTraceEnd(JLjava/lang/String;I)V (light greylist, reflection)
+2024-10-16 19:59:26.556  9992-9992  ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/os/Trace;->traceCounter(JLjava/lang/String;I)V (light greylist, reflection)
+2024-10-16 19:59:26.558  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.565  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.570  4951-5915  FontLog                 com.google.android.gms.persistent    I  Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+2024-10-16 19:59:26.570  4951-5915  FontLog                 com.google.android.gms.persistent    I  Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+2024-10-16 19:59:26.573  4951-5915  FontLog                 com.google.android.gms.persistent    I  Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+2024-10-16 19:59:26.575  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.577  9992-10018 ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/graphics/FontFamily;-><init>()V (light greylist, reflection)
+2024-10-16 19:59:26.577  9992-10018 ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/graphics/FontFamily;->addFontFromAssetManager(Landroid/content/res/AssetManager;Ljava/lang/String;IZIII[Landroid/graphics/fonts/FontVariationAxis;)Z (light greylist, reflection)
+2024-10-16 19:59:26.577  9992-10018 ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/graphics/FontFamily;->addFontFromBuffer(Ljava/nio/ByteBuffer;I[Landroid/graphics/fonts/FontVariationAxis;II)Z (light greylist, reflection)
+2024-10-16 19:59:26.577  9992-10018 ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/graphics/FontFamily;->freeze()Z (light greylist, reflection)
+2024-10-16 19:59:26.577  9992-10018 ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/graphics/FontFamily;->abortCreation()V (light greylist, reflection)
+2024-10-16 19:59:26.577  9992-10018 ret.activitysp          edu.uw.ischool.kmuret.activityspy    W  Accessing hidden method Landroid/graphics/Typeface;->createFromFamiliesWithDefault([Landroid/graphics/FontFamily;Ljava/lang/String;II)Landroid/graphics/Typeface; (light greylist, reflection)
+2024-10-16 19:59:26.581  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.581  4951-4969  FontLog                 com.google.android.gms.persistent    I  Pulling font file for id = 12, cache size = 5 [CONTEXT service_id=132 ]
+2024-10-16 19:59:26.586  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.593  4951-4969  FontLog                 com.google.android.gms.persistent    I  Pulling font file for id = 12, cache size = 5 [CONTEXT service_id=132 ]
+2024-10-16 19:59:26.596  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.666  2129-2418  chatty                  com.android.systemui                 I  uid=10040(com.android.systemui) RenderThread identical 8 lines
+2024-10-16 19:59:26.670  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:26.868  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@238fe6f)
+2024-10-16 19:59:26.869  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@238fe6f)
+2024-10-16 19:59:27.874  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8a4577c)
+2024-10-16 19:59:27.875  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8a4577c)
+2024-10-16 19:59:28.097  1904-2096  TaskPersister           system_server                        E  File error accessing recents directory (directory doesn't exist?).
+2024-10-16 19:59:28.879  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6893805)
+2024-10-16 19:59:28.879  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6893805)
+2024-10-16 19:59:29.544  1904-2664  memtrack                system_server                        E  Couldn't load memtrack module
+2024-10-16 19:59:29.544  1904-2664  android.os.Debug        system_server                        W  failed to get memory consumption info: -1
+2024-10-16 19:59:29.879  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5c905a)
+2024-10-16 19:59:29.880  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5c905a)
+2024-10-16 19:59:30.883  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b01128b)
+2024-10-16 19:59:30.883  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b01128b)
+2024-10-16 19:59:31.582  9992-10019 ProfileInstaller        edu.uw.ischool.kmuret.activityspy    D  Installing profile for edu.uw.ischool.kmuret.activityspy
+2024-10-16 19:59:31.883  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@59d6f68)
+2024-10-16 19:59:31.884  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@59d6f68)
+2024-10-16 19:59:32.889  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e6a4f81)
+2024-10-16 19:59:32.890  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e6a4f81)
+2024-10-16 19:59:33.895  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6435826)
+2024-10-16 19:59:33.895  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6435826)
+2024-10-16 19:59:34.898  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2ec4c67)
+2024-10-16 19:59:34.898  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2ec4c67)
+2024-10-16 19:59:35.903  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@c8e1a14)
+2024-10-16 19:59:35.903  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@c8e1a14)
+2024-10-16 19:59:36.908  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3eb62bd)
+2024-10-16 19:59:36.908  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3eb62bd)
+2024-10-16 19:59:37.909  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e7cd0b2)
+2024-10-16 19:59:37.909  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e7cd0b2)
+2024-10-16 19:59:38.914  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e674803)
+2024-10-16 19:59:38.914  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e674803)
+2024-10-16 19:59:39.919  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f3cc380)
+2024-10-16 19:59:39.919  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f3cc380)
+2024-10-16 19:59:40.922  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5706db9)
+2024-10-16 19:59:40.922  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5706db9)
+2024-10-16 19:59:41.605  1904-1932  memtrack                system_server                        E  Couldn't load memtrack module
+2024-10-16 19:59:41.605  1904-1932  android.os.Debug        system_server                        W  failed to get memory consumption info: -1
+2024-10-16 19:59:41.738  1375-7469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2277581 , only wrote 2277360
+2024-10-16 19:59:41.839  1393-1472  AudioFlinger            audioserver                          D  mixer(0x757848f740) throttle end: throttle time(4)
+2024-10-16 19:59:41.861  1904-3405  ActivityManager         system_server                        I  START u0 {flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10040
+2024-10-16 19:59:41.881  1384-1455  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 1044480
+2024-10-16 19:59:41.883  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:41.884  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    I  onPause event fired
+2024-10-16 19:59:41.886  1384-1455  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 1044480
+2024-10-16 19:59:41.887  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:41.893  1904-1939  AutofillManagerService  system_server                        D  Close system dialogs
+2024-10-16 19:59:41.891  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:41.894  9992-10017 EGL_emulation           edu.uw.ischool.kmuret.activityspy    D  eglMakeCurrent: 0x776aad85c0: ver 3 0 (tinfo 0x7772e7bfc0)
+2024-10-16 19:59:41.897  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    I  onStop event fired
+2024-10-16 19:59:41.915  1384-1455  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:41.916  1384-1783  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:41.916  1384-1384  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:41.923  2129-2129  StatusBar               com.android.systemui                 V  mStatusBarWindow: com.android.systemui.statusbar.phone.StatusBarWindowView{3814036 V.ED..... ........ 0,0-1440,84} canPanelBeCollapsed(): false
+2024-10-16 19:59:41.923  2129-2129  vol.Events              com.android.systemui                 I  writeEvent dismiss_dialog volume_controller
+2024-10-16 19:59:41.926  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@36a97ac)
+2024-10-16 19:59:41.927  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@36a97ac)
+2024-10-16 19:59:41.930  3046-3046  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2024-10-16 19:59:41.932  3046-3046  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2024-10-16 19:59:41.935  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:41.948  2129-2418  chatty                  com.android.systemui                 I  uid=10040(com.android.systemui) RenderThread identical 1 line
+2024-10-16 19:59:41.970  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:41.976  1384-1455  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:41.982  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:42.136  2129-2418  chatty                  com.android.systemui                 I  uid=10040(com.android.systemui) RenderThread identical 19 lines
+2024-10-16 19:59:42.138  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:42.310  1723-1755  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: thumbnail anim: AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}}#0
+2024-10-16 19:59:42.310  1723-1755  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: edu.uw.ischool.kmuret.activityspy/edu.uw.ischool.kmuret.activityspy.MainActivity#0
+2024-10-16 19:59:42.310  1723-1755  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: thumbnail anim: AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}}#0
+2024-10-16 19:59:42.310  1723-1755  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: edu.uw.ischool.kmuret.activityspy/edu.uw.ischool.kmuret.activityspy.MainActivity#0
+2024-10-16 19:59:42.310  1723-2011  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: Surface(name=AppWindowToken{2670d18 token=Token{e7cd8fb ActivityRecord{64aaa8a u0 com.android.systemui/.recents.RecentsActivity t11}}})/@0xe3716c7 - animation-leash#0
+2024-10-16 19:59:42.310  1723-2011  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: Surface(name=thumbnail anim: AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}})/@0xca9c40a - animation-leash#0
+2024-10-16 19:59:42.310  1723-2011  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: Surface(name=AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}})/@0xe96cd08 - animation-leash#0
+2024-10-16 19:59:42.310  1723-2011  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: Surface(name=AppWindowToken{2670d18 token=Token{e7cd8fb ActivityRecord{64aaa8a u0 com.android.systemui/.recents.RecentsActivity t11}}})/@0xe3716c7 - animation-leash#0
+2024-10-16 19:59:42.310  1723-2011  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: Surface(name=thumbnail anim: AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}})/@0xca9c40a - animation-leash#0
+2024-10-16 19:59:42.310  1723-2011  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: Surface(name=AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}})/@0xe96cd08 - animation-leash#0
+2024-10-16 19:59:42.321  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:42.331  1904-7476  HostConnection          system_server                        D  HostConnection::get() New Host Connection established 0x775416caa0, tid 7476
+2024-10-16 19:59:42.331  1904-7476  HostConnection          system_server                        D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_sync_buffer_data GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+2024-10-16 19:59:42.331  1904-7476  ConfigStore             system_server                        I  android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2024-10-16 19:59:42.331  1904-7476  ConfigStore             system_server                        I  android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2024-10-16 19:59:42.331  1904-7476  OpenGLRenderer          system_server                        I  Initialized EGL, version 1.4
+2024-10-16 19:59:42.331  1904-7476  OpenGLRenderer          system_server                        D  Swap behavior 1
+2024-10-16 19:59:42.331  1904-7476  OpenGLRenderer          system_server                        W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2024-10-16 19:59:42.331  1904-7476  OpenGLRenderer          system_server                        D  Swap behavior 0
+2024-10-16 19:59:42.332  1904-7476  eglCodecCommon          system_server                        D  setVertexArrayObject: set vao to 0 (0) 0 0
+2024-10-16 19:59:42.332  1904-7476  EGL_emulation           system_server                        D  eglCreateContext: 0x776c8361e0: maj 3 min 0 rcv 3
+2024-10-16 19:59:42.332  1904-7476  EGL_emulation           system_server                        D  eglMakeCurrent: 0x776c8361e0: ver 3 0 (tinfo 0x77544eb060)
+2024-10-16 19:59:42.343  1904-7476  eglCodecCommon          system_server                        D  setVertexArrayObject: set vao to 0 (0) 1 2
+2024-10-16 19:59:42.930  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d2b3729)
+2024-10-16 19:59:42.932  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d2b3729)
+2024-10-16 19:59:43.934  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8eb2aae)
+2024-10-16 19:59:43.934  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8eb2aae)
+2024-10-16 19:59:44.381  1375-7469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2404204 , only wrote 2403360
+2024-10-16 19:59:44.408  1375-7469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2404654 , only wrote 2403360
+2024-10-16 19:59:44.427  1375-7469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2404280 , only wrote 2404080
+2024-10-16 19:59:44.428  1375-7469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2404110 , only wrote 2404080
+2024-10-16 19:59:44.595  1375-7469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2412126 , only wrote 2410560
+2024-10-16 19:59:44.613  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    I  onDestroy event fired
+2024-10-16 19:59:44.613  9992-9992  ActivitySpy             edu.uw.ischool.kmuret.activityspy    E  "We're going down, Captain!" -- Star Trek VI: The Undiscovered Country
+2024-10-16 19:59:44.615  1904-4180  ActivityManager         system_server                        I  Killing 9992:edu.uw.ischool.kmuret.activityspy/u0a91 (adj 900): remove task
+2024-10-16 19:59:44.616  1904-1936  libprocessgroup         system_server                        W  kill(-9992, 9) failed: No such process
+2024-10-16 19:59:44.618  1904-1939  AutofillManagerService  system_server                        D  Close system dialogs
+2024-10-16 19:59:44.619  1904-3405  ActivityManager         system_server                        I  START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 10040
+2024-10-16 19:59:44.632  1904-2096  TaskPersister           system_server                        E  File error accessing recents directory (directory doesn't exist?).
+2024-10-16 19:59:44.635  2129-2129  StatusBar               com.android.systemui                 V  mStatusBarWindow: com.android.systemui.statusbar.phone.StatusBarWindowView{3814036 V.ED..... ........ 0,0-1440,84} canPanelBeCollapsed(): false
+2024-10-16 19:59:44.645  2129-2129  vol.Events              com.android.systemui                 I  writeEvent dismiss_dialog volume_controller
+2024-10-16 19:59:44.657  2129-2418  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0x776c8463e0: ver 3 0 (tinfo 0x776c93b7a0)
+2024-10-16 19:59:44.659  1384-1455  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:44.660  1384-1783  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:44.660  1904-1936  libprocessgroup         system_server                        W  kill(-9992, 9) failed: No such process
+2024-10-16 19:59:44.660  1384-1384  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 14749696
+2024-10-16 19:59:44.666  3046-3046  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2024-10-16 19:59:44.666  3046-3046  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2024-10-16 19:59:44.675  3125-3243  EGL_emulation           com.android.launcher3                D  eglMakeCurrent: 0x776c840860: ver 3 0 (tinfo 0x776c80df00)
+2024-10-16 19:59:44.681  1904-2014  InputDispatcher         system_server                        W  channel '393834c edu.uw.ischool.kmuret.activityspy/edu.uw.ischool.kmuret.activityspy.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+---------------------------- PROCESS ENDED (9992) for package edu.uw.ischool.kmuret.activityspy ----------------------------
+2024-10-16 19:59:44.681  1904-2014  InputDispatcher         system_server                        E  channel '393834c edu.uw.ischool.kmuret.activityspy/edu.uw.ischool.kmuret.activityspy.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+2024-10-16 19:59:44.682  1724-1724  Zygote                  pid-1724                             I  Process 9992 exited due to signal (9)
+2024-10-16 19:59:44.688  1904-4180  WindowManager           system_server                        I  WIN DEATH: Window{393834c u0 edu.uw.ischool.kmuret.activityspy/edu.uw.ischool.kmuret.activityspy.MainActivity}
+2024-10-16 19:59:44.688  1904-4180  InputDispatcher         system_server                        W  Attempted to unregister already unregistered input channel '393834c edu.uw.ischool.kmuret.activityspy/edu.uw.ischool.kmuret.activityspy.MainActivity (server)'
+2024-10-16 19:59:44.694  1723-1755  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: AppWindowToken{fbe5531 token=Token{92c3dd8 ActivityRecord{8c954bb u0 edu.uw.ischool.kmuret.activityspy/.MainActivity t20}}}#0
+2024-10-16 19:59:44.704  1904-1936  libprocessgroup         system_server                        W  kill(-9992, 9) failed: No such process
+2024-10-16 19:59:44.704  1904-1936  libprocessgroup         system_server                        I  Successfully killed process cgroup uid 10091 pid 9992 in 88ms
+2024-10-16 19:59:44.713  1904-1941  ActivityManager         system_server                        W  setHasOverlayUi called on unknown pid: 9992
+2024-10-16 19:59:44.728  2129-7480  ndroid.systemu          com.android.systemui                 I  Explicit concurrent copying GC freed 1812(262KB) AllocSpace objects, 0(0B) LOS objects, 50% free, 5MB/10MB, paused 24us total 66.578ms
+2024-10-16 19:59:44.880  1723-1750  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: Surface(name=AppWindowToken{567aab9 token=Token{5c6d480 ActivityRecord{97afd03 u0 com.android.launcher3/.Launcher t5}}})/@0x63017d - animation-leash#0
+2024-10-16 19:59:44.880  1723-1750  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: Surface(name=AppWindowToken{567aab9 token=Token{5c6d480 ActivityRecord{97afd03 u0 com.android.launcher3/.Launcher t5}}})/@0x63017d - animation-leash#0
+2024-10-16 19:59:44.936  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e75039d)
+2024-10-16 19:59:44.937  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e75039d)
+2024-10-16 19:59:44.988  1375-1469  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 2446833 , only wrote 2429280
+2024-10-16 19:59:45.943  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@75a9012)
+2024-10-16 19:59:45.944  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@75a9012)
+2024-10-16 19:59:46.946  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@96103e3)
+2024-10-16 19:59:46.947  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@96103e3)
+2024-10-16 19:59:47.700  1904-2096  TaskPersister           system_server                        E  File error accessing recents directory (directory doesn't exist?).
+2024-10-16 19:59:47.947  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@21001e0)
+2024-10-16 19:59:47.948  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@21001e0)
+2024-10-16 19:59:48.953  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@4a33c99)
+2024-10-16 19:59:48.953  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@4a33c99)
+2024-10-16 19:59:49.953  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d4d9b5e)
+2024-10-16 19:59:49.953  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d4d9b5e)
+2024-10-16 19:59:50.958  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@815fb3f)
+2024-10-16 19:59:50.959  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@815fb3f)
+2024-10-16 19:59:51.963  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5a35c0c)
+2024-10-16 19:59:51.963  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5a35c0c)
+2024-10-16 19:59:52.964  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9e20955)
+2024-10-16 19:59:52.964  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9e20955)
+2024-10-16 19:59:53.970  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d40f6a)
+2024-10-16 19:59:53.970  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d40f6a)
+2024-10-16 19:59:54.974  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@cf90c5b)
+2024-10-16 19:59:54.975  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@cf90c5b)
+2024-10-16 19:59:55.980  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1302cf8)
+2024-10-16 19:59:55.980  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1302cf8)
+2024-10-16 19:59:56.985  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f06e5d1)
+2024-10-16 19:59:56.986  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f06e5d1)
+2024-10-16 19:59:57.988  1904-2080  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9bb836)
+2024-10-16 19:59:57.988  1904-1932  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9bb836)
